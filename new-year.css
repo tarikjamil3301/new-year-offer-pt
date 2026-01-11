@@ -1,0 +1,78 @@
+/* Banner styles */
+
+.banner-container {
+    text-align: center;
+    padding: 20px 0;
+}
+
+/* button styles */
+.btn-primary{
+    background-color: red;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    padding: 12px 24px;
+    font-size: 24px;
+}
+
+/* offer  styles */
+.offer-container{
+    text-align: center;
+    padding: 20px 0;
+}
+.offer-container h1{
+    font-size: 86px;
+    color: #cb2121;
+}
+.offer-descrition {
+
+    font-size: 24px;
+    color: #d92e2e;
+    font-weight: 500;
+    margin-top: 48px;
+}
+.offer-title{
+    font-size: 48px;
+    color: #000000;
+    margin-top:16px;
+    margin-bottom: 48px;
+}
+/* Welcome styles */
+.Welcome {
+    padding: 60px 0;
+    text-align: center;
+    display:block;
+}
+
+/* Place styles */
+.place-details {
+    text-align: center;
+    padding: 60px 0;
+}
+.Place-bg {
+    background-color: #ea5d5d2c;
+    padding:140px;  
+    align-items: center;
+}
+.place-details p{
+    margin-top: 16px;
+    font-size: 32px;
+}
+.place-details .btn-primary{
+    margin-top: 48px;
+    padding: 16px 32px;
+    font-size: 26px;
+}
+.color {
+    color: #cb2121;
+}
+
+/* New Offer styles */
+.new-offer-container{
+    display: flex;
+    gap: 70px;
+    padding: 140px;
+    align-items: center;
+}
+
+
