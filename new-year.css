@@ -53,6 +53,8 @@
     background-color: #ea5d5d2c;
     padding:140px;  
     align-items: center;
+    margin: 0 200px;
+    border-radius: 20px;
 }
 .place-details p{
     margin-top: 16px;
